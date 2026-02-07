@@ -18,7 +18,7 @@ Fancy Pink Calculator is a responsive web-based calculator application built wit
 
 *   HTML5
 *   CSS3
-*   Vanilla JavaScript
+*   JavaScript
 
 
 ## Getting Started
