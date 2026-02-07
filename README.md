@@ -1,13 +1,42 @@
-Project Name: Fancy Pink Calculator
-Description:
-The Fancy Pink Calculator is a visually appealing, basic calculator with a vibrant pink theme.
-It allows users to perform essential arithmetic operations such as addition, subtraction, multiplication, division, and modulus calculations.
-Designed for fun and functionality, its intuitive layout and colorful design make it engaging for learners and developers alike.
-The project is built using HTML, CSS, and JavaScript and can be easily integrated into any web project.
+# Fancy Pink Calculator
 
-Features:
-Basic Arithmetic Operations: Add, subtract, multiply, divide, and modulus.
-Clear Button: Reset the calculator display.
-Responsive Design: Adjusts well to different screen sizes.
-Stylish Interface: Attractive pink theme with hover effects for buttons.
-Easy to Use: Simple layout for a seamless user experience.
+**Live Demo:** [https://monjit-borah.github.io/Fancy-Pink-Calculator/](https://monjit-borah.github.io/Fancy-Pink-Calculator/)
+
+## Overview
+
+Fancy Pink Calculator is a responsive web-based calculator application built with vanilla HTML, CSS, and JavaScript. It features a modern pink-themed UI, smooth interactions, and performs core arithmetic operations. The project emphasizes clean design, responsive behavior, and efficient DOM manipulation.
+
+## Features
+
+*   **Arithmetic Operations:** Addition, subtraction, multiplication, division, and modulus.
+*   **Clear Functionality:** Reset the display and current calculation.
+*   **Responsive Design:** Adapts seamlessly to mobile, tablet, and desktop screens.
+*   **Modern UI:** Custom color palette with interactive hover effects and transitions.
+*   **Intuitive Layout:** User-friendly interface with logical button grouping.
+
+## Tech Stack
+
+*   HTML5
+*   CSS3
+*   Vanilla JavaScript
+
+
+## Getting Started
+
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/monjit-borah/Fancy-Pink-Calculator.git
+    ```
+2.  Navigate to the project directory and open `index.html` in your browser.
+
+## Learning Outcomes
+
+This project demonstrates practical implementation of:
+*   DOM manipulation and dynamic UI updates with JavaScript.
+*   Event handling for user interactions.
+*   Responsive web design principles using CSS Flexbox/Grid.
+*   Styling techniques for visual feedback and enhanced UX.
+
+## Author
+
+**Monjit Borah**  
